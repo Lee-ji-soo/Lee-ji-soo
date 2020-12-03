@@ -34,12 +34,12 @@ https://github.com/Lee-ji-soo/shoppingmall_REACT
 ### 3. Clone Naver! :womans_hat:
 - Main language: <strong>SCSS</strong> 
 - practice make grid width flex & grid 
-- rendering content with javascript - map <br>
+- rendering content with javascript <br>
 https://github.com/Lee-ji-soo/naverpage-SCSS
 
 ### 4. Interactive Coding! :smiley: (Bonus)
 - Main language: <strong>Javascript</strong> 
-- My hobby is playing 'interation coding'.
+- My hobby is playing 'interation coding'. <br>
 https://github.com/Lee-ji-soo/interactivecoding_JS
 <br>
 
