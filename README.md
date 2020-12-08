@@ -18,18 +18,16 @@ https://www.arena.co.kr/index.asp
 
 ## Look around My Project
 
-### 1. Cath Cat! :cat:
-- Main language: <strong>Javascript</strong> 
-- Fetch API and offer cat Images to users <br>
-https://github.com/Lee-ji-soo/catAPI_JS
-
-
-### 2. Shoppingmall! :tshirt:
+### 1. Shoppingmall! :tshirt:
 - Main language: <strong>React</strong>
 - React Reducer : Manage Shopping cart
 - React saga  & Node JS : Manage Login access <br>
 https://github.com/Lee-ji-soo/shoppingmall_REACT
 
+### 2. Cath Cat! :cat:
+- Main language: <strong>Javascript</strong> 
+- Fetch API and offer cat Images to users <br>
+https://github.com/Lee-ji-soo/catAPI_JS
 
 ### 3. Clone Naver! :womans_hat:
 - Main language: <strong>SCSS</strong> 
