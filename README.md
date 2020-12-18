@@ -27,18 +27,18 @@ https://github.com/Lee-ji-soo/shoppingmall_REACT    ←←←←←←← Please
 ### 2. Cath Cat! :cat:
 - Main language: <strong>Javascript</strong> 
 - Fetch API and offer cat Images to users <br>
-https://github.com/Lee-ji-soo/catAPI_JS   ←←←←←←← Please click and watch my 'catch cat' project
+https://github.com/Lee-ji-soo/catAPI_JS   ←←←←←←←←←←←←←←←←←←←← Please click and watch my 'catch cat' project
 
 ### 3. Clone Naver! :womans_hat:
 - Main language: <strong>SCSS</strong> 
 - practice make grid width flex & grid 
 - rendering content with javascript <br>
-https://github.com/Lee-ji-soo/naverpage-SCSS ←←←←←←← Please click and watch my 'clone naver' project
+https://github.com/Lee-ji-soo/naverpage-SCSS ←←←←←←←←←←←←←←← Please click and watch my 'clone naver' project
 
 ### 4. Interactive Coding! :smiley: (Bonus)
 - Main language: <strong>Javascript</strong> 
 - My hobby is playing 'interation coding'. <br>
-https://github.com/Lee-ji-soo/interactivecoding_JS  ←←←←←←← Please click and watch my 'interative coding' project
+https://github.com/Lee-ji-soo/interactivecoding_JS  ←← Please click and watch my 'interative coding' project
 <br>
 
 ### How to reach me <br>
