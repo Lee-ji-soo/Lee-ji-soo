@@ -1,9 +1,8 @@
 ### I'm Jisoo Lee 👋
 ### I'm Queen of communication<br>I've been working as a Web Designer
 
--  My goal is to get a job as <strong>Front-End Developer</strong>.
--  I’m currently working on 'arena Korea' as <strong>Web-designer</strong>. 
-https://www.arena.co.kr/index.asp
+-  I'm <strong>Front-End Developer</strong>.
+-  I’m currently working on 'Flyingcat' as <strong>Front-End Developer</strong>. 
 -  I'm learning <strong>'Javscript, React, SCSS'</strong>
 -  Fun fact: I majored in fashion design.
 
