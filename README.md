@@ -2,7 +2,7 @@
 ### I'm Queen of communication<br>I've been working as a Web Designer
 
 -  I'm <strong>Front-End Developer</strong>.
--  I’m currently working on 'Flyingcat' as <strong>Front-End Developer</strong>. 
+-  I’m currently working at 'Flyingcat' as <strong>Front-End Developer</strong>. 
 -  I'm learning <strong>'Javscript, React, SCSS'</strong>
 -  Fun fact: I majored in fashion design.
 
