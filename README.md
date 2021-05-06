@@ -20,7 +20,7 @@
 ### 1. Flyingcat! 
 - Main language: <strong>React</strong>
 - library : react-image-crop, react-slick
-- teamwork with backend api CRUD
+- teamwork with backend api CRUD <br>
 https://github.com/Lee-ji-soo/flyingcat.git ←←←←← Please click and watch my 'shoppingmall' project
 
 ### 2. Shoppingmall
