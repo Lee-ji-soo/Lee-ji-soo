@@ -17,24 +17,30 @@
 
 ## Look around My Project
 
-### 1. Shoppingmall! :tshirt:
+### 1. Flyingcat! 
+- Main language: <strong>React</strong>
+- library : react-image-crop, react-slick
+- teamwork with backend api CRUD
+https://github.com/Lee-ji-soo/flyingcat.git ←←←←← Please click and watch my 'shoppingmall' project
+
+### 2. Shoppingmall
 - Main language: <strong>React</strong>
 - React Reducer : Manage Shopping cart
 - React saga  & Node JS : Manage Login access <br>
-https://github.com/Lee-ji-soo/shoppingmall_REACT  ←←←←← Please click and watch my 'shoppingmall' project
+https://github.com/Lee-ji-soo/shoppingmall_REACT ←←←←← Please click and watch my 'shoppingmall' project
 
-### 2. Cath Cat! :cat:
+### 3. Cath Cat
 - Main language: <strong>Javascript</strong> 
 - Fetch API and offer cat Images to users <br>
 https://github.com/Lee-ji-soo/catAPI_JS   ←←←←← Please click and watch my 'catch cat' project
 
-### 3. Clone Naver! :womans_hat:
+### 4. Clone Naver
 - Main language: <strong>SCSS</strong> 
 - practice make grid width flex & grid 
 - rendering content with javascript <br>
 https://github.com/Lee-ji-soo/naverpage-SCSS  ←←←←← Please click and watch my 'clone naver' project
 
-### 4. Interactive Coding! :smiley: (Bonus)
+### 5. Interactive Coding
 - Main language: <strong>Javascript</strong> 
 - My hobby is playing 'interation coding'. <br>
 https://github.com/Lee-ji-soo/interactivecoding_JS   ←←←←← Please click and watch my 'interative coding' project
