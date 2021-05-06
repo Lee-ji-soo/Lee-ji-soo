@@ -21,7 +21,7 @@
 - Main language: <strong>React</strong>
 - library : react-image-crop, react-slick
 - teamwork with backend api CRUD <br>
-https://github.com/Lee-ji-soo/flyingcat.git ←←←←← Please click and watch my 'shoppingmall' project
+https://github.com/Lee-ji-soo/flyingcat.git ←←←←← Please click and watch my 'flyingcat' project
 
 ### 2. Shoppingmall
 - Main language: <strong>React</strong>
