@@ -17,7 +17,12 @@
 
 ## Look around My Project
 
-### 1. Flyingcat! 
+### 1. Feedbacker 
+- Main language: <strong>React</strong> <strong>Nodejs</strong>
+https://github.com/Lee-ji-soo/feedbacker.git ←←←←← Please click and watch my 'Feedbacker' project
+
+
+### 1. Flyingcat
 - Main language: <strong>React</strong>
 - library : react-image-crop, react-slick
 - teamwork with backend api CRUD <br>
