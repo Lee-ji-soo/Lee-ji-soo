@@ -5,6 +5,7 @@
 -  I’m currently working at 'Flyingcat' as <strong>Front-End Developer</strong>. 
 -  I'm learning <strong>'Javscript, React, SCSS'</strong>
 -  Fun fact: I majored in fashion design.
+-  more detail <a href='https://www.notion.so/7016c2c5d00c4c20aeceff6c479a5079'>ABOUT ME</a>
 
 ## Languages and Tools:
 
