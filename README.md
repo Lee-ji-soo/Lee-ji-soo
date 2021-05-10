@@ -19,8 +19,9 @@
 
 ### 1. Feedbacker 
 - Main language: <strong>React</strong> <strong>Nodejs</strong>
+- MySql
+- AWS 배포 <br>
 https://github.com/Lee-ji-soo/feedbacker.git ←←←←← Please click and watch my 'Feedbacker' project
-
 
 ### 1. Flyingcat
 - Main language: <strong>React</strong>
