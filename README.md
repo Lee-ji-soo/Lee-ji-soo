@@ -20,8 +20,9 @@
 
 ### 1. Feedbacker 
 - Main language: <strong>React</strong> <strong>Nodejs</strong>
-- MySql
+- firebase (cloud store, storage, realtime Database)
 - AWS 배포 <br>
+- redux thunk
 https://github.com/Lee-ji-soo/feedbacker.git ←←←←← Please click and watch my 'Feedbacker' project
 
 ### 1. Flyingcat
