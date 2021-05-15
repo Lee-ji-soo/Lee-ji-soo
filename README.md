@@ -21,7 +21,7 @@
 ### 1. Feedbacker 
 - Main language: <strong>React</strong> <strong>Nodejs</strong>
 - firebase (cloud store, storage, realtime Database)
-- AWS 배포 <br>
+- AWS 배포 https://feedbacker.club/<br>
 - redux thunk
 https://github.com/Lee-ji-soo/feedbacker.git ←←←←← Please click and watch my 'Feedbacker' project
 
