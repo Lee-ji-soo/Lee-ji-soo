@@ -22,7 +22,7 @@
 - Main language: <strong>React</strong> <strong>Nodejs</strong>
 - firebase (cloud store, storage, realtime Database)
 - AWS 배포
-- redux thunk
+- redux thunk <br>
 https://github.com/Lee-ji-soo/feedbacker.git ←←←←← Please click and watch my 'Feedbacker' project
 
 ### 1. Flyingcat
