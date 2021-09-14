@@ -3,7 +3,7 @@
 -  I’m currently working at 'moye' as <strong>Front-End Developer</strong>. 
 -  I'm learning <strong>'Javscript, Typescript, React, SCSS'</strong>
 -  I majored in fashion design.
--  more detail <a href='https://www.notion.so/7016c2c5d00c4c20aeceff6c479a5079'>ABOUT ME</a>
+-  more detail <a href='https://crimson-guan-3f4.notion.site/7016c2c5d00c4c20aeceff6c479a5079'>ABOUT ME</a>
 
 ## Languages and Tools:
 
